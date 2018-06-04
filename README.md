@@ -1,6 +1,8 @@
 ## 欢迎来到周俊杰的个人网站
 
-下面的内容你可删除。 仅实例
+下面的内容你可删除或者自定义。  只是给写法示范
+
+
 You can use the [editor on GitHub](https://github.com/zhouJunJie0/zhoujunjie0.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
