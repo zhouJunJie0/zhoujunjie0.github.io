@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![这是一张图片](http://img3.imgtn.bdimg.com/it/u=2791674927,1091799816&fm=27&gp=0.jpg)
+![这是一张图片](https://is4-ssl.mzstatic.com/image/thumb/Purple49/v4/1e/5a/f5/1e5af5ba-4e89-590f-6729-32cff9fbf45b/mzl.rmngrcor.png/246x0w.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
